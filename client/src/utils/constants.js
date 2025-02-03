@@ -1,1 +1,1 @@
-export const baseURL = `https://to-do-list-backend-o494.onrender.com`
+export const baseURL = `https://to-do-list-backend-o494.onrender.com/api`
